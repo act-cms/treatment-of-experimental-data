@@ -32,6 +32,7 @@ following content topics:
 ### Resources
 
 * [Lab Handout](https://github.com/act-cms/treatment-of-experimental-data/tree/main/02_treatment-of-data-activity/handout.md)
+* [Monte Carlo methods](https://github.com/act-cms/treatment-of-experimental-data/tree/main/02_treatment-of-data-activity/monte_carlo_methods.md)
 * [MolSSI CMS Python Workshop: Introduction](https://education.molssi.org/python_scripting_cms/01-introduction/index.html)
 
 ### References
