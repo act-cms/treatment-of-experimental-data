@@ -1,24 +1,18 @@
-Lesson/Module Title
+Treatment of Experimental Data and Visualizing Uncertainty
 ===================
 
-Write a short description (2-3 sentences) of your lesson here. The `main`
-branch of your lesson repository is the most public-facing branch, which will
-primarily be accessed by prospective adopting instructors as they explore the
-open educational resources (OER) available on the ACT-CMS portal. Minimally,
-you should address the lesson's purpose, intended audience (course & student
-level), and time required.
+This module goes through how to visualize uncertainty derived graphically from the 95% confidence intervals, the best fit line, and through Monte Carlo sampling of the uncertainty.
+This module was initially designed for an upper-level undergraduate Physical Chemistry  as an introduction to Python lab; however, this notebook can be adapted for analytical chemistry as the experiment is measuring the air pressure in a closed syringe.
+The lessons provided consist of a pre-lab activity designed to be done before class and the treatment of experimental data lesson to be done in class/lab. Sample data is provided for this module.
 
 ## Lesson/Module Contents
 
-Provide a brief overview of the structure of your module or lesson as an
-enumerated list below:
-
-1. Title of first lesson in module
-    * Directory: `01_first-lesson`
-    * Description: Extremely brief description of lesson content
-    * Time: 2-3 hours
-2. Title of second lesson in module (if present)
-    * Directory: `02_second-lesson`
-    * Description: Extremely brief description of lesson content
+1. Introduction
+    * Directory: `01_pre-lab-activity`
+    * Description: A pre-lab activity that goes through the basics of Python
+    * Time: 0.5-1 hour
+2. Treatment of Experimental Data
+    * Directory: `02_treatment-of-data-activity`
+    * Description: Differentiate between best fit, graphical, and Monte Carlo methods for error estimation using matplotlib
     * Time: 2-3 hours
 
