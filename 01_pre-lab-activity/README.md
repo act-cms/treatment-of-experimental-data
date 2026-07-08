@@ -1,7 +1,7 @@
 Lesson 01: Treatment of Experimental Data Pre Lab Activity
 =======================
 
-The purpose of this lesson is to (brief description of lesson here).
+The purpose of this lesson is to reintroduce Python from the foundational modules.
 
 ## Lesson Information
 ### Lesson Learning Outcomes
@@ -17,28 +17,28 @@ and/or completed the following modules/lessons available on the ACT-CMS Portal:
 
 * Basic skills in Python programming and syntax
     - [Introduction to Programming for Molecular Scientists](https://act-cms.molssi.org/portal/lessons/foundational-intro-python/)
-	- [Introduction to Programming with Chemical Applications](https://act-cms.molssi.org/portal/lessons/foundational-intro-python/)
+	- [Introduction to Programming with Chemical Applications](https://act-cms.molssi.org/portal/lessons/intro-to-programming-with-chem-applications/)
 
 ### Content Prerequisites
 
 Before beginning this lesson, students are expected to be familiar with the
 following content topics:
 
-* Statistical Measurements (first-year general chemistry and/or analytical chemistry)
+* Calibration curves and Beer's Law (first-year general chemistry)
+* Kinetics and Integrated Rate Laws (first-year general chemistry)
+* Infrared Spectroscopy (Organic Chemistry)
 
 ### Resources
 
-* Relevant list of resources for students to access if needed
-* [MolSSI Workshop: Python Scripting for Computational Molecular Sciences](https://education.molssi.org/python_scripting_cms/)
-* [MolSSI CMS Python Workshop: Introduction](https://education.molssi.org/python_scripting_cms/01-introduction/index.html)
-* [MolSSI Workshop: Python Scripting for Computational Molecular Sciences](https://education.molssi.org/python_scripting_cms/)
+* Relevant list of resources for students to access if needed:
+ * [MolSSI Workshop: Python Scripting for Computational Molecular Sciences](https://education.molssi.org/python_scripting_cms/)
+ * [MolSSI CMS Python Workshop: Introduction](https://education.molssi.org/python_scripting_cms/01-introduction/index.html)
+ * [MolSSI Workshop: Python Scripting for Computational Molecular Sciences](https://education.molssi.org/python_scripting_cms/)
 
 ### References
 
 Portions of this lesson were adapted from: 
-* Lesson citation or reference, with associated link
-* [OpenStax Chemistry 2e](https://openstax.org/details/books/chemistry-2e)
-* Etc.
+* Transitioning from Excel to Python for Chemistry Lab Data Analysis Workshop for BCCE 2024
 
 ## Lesson Versions & Intended Modalities
 
@@ -51,10 +51,6 @@ modality of instruction and associated implementation strategies.
 
 Also provided to support adopting instructors are
 - `Instructor-Key.ipynb`: Instructor "key" notebook with completed code cells and full instructor commentary in Markdown cells
-- `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
-
-See the `instructor-notes.ipynb` For more information about implementation
-strategies from the lesson author.
 
 
 
