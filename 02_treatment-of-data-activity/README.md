@@ -20,25 +20,24 @@ and/or completed the following modules/lessons available on the ACT-CMS Portal:
 
 * Basic skills in Python programming and syntax
     - [Introduction to Programming for Molecular Scientists](https://act-cms.molssi.org/portal/lessons/foundational-intro-python/)
-
+	- [Introduction to Programming with Chemical Applications](https://act-cms.molssi.org/portal/lessons/intro-to-programming-with-chem-applications/)
+	
 ### Content Prerequisites
 
 Before beginning this lesson, students are expected to be familiar with the
 following content topics:
 
-* Calibration curves and Beer's Law (first-year general chemistry)
-* Kinetics and Integrated Rate Laws (first-year general chemistry)
-* Infrared Spectroscopy (Organic Chemistry)
+* Statistical Measurements (first-year general chemistry and/or analytical chemistry)
 
 ### Resources
 
-* Relevant list of resources for students to access if needed
+* [Lab Handout](https://github.com/act-cms/treatment-of-experimental-data/tree/main/02_treatment-of-data-activity/handout.md)
 * [MolSSI CMS Python Workshop: Introduction](https://education.molssi.org/python_scripting_cms/01-introduction/index.html)
 
 ### References
+* [Lab Handout](https://github.com/act-cms/treatment-of-experimental-data/tree/main/02_treatment-of-data-activity/handout.md)
+*
 
-Portions of this lesson were adapted from: 
-* Transitioning from Excel to Python for Chemistry Lab Data Analysis Workshop for BCCE 2024
 
 ## Lesson Versions & Intended Modalities
 
