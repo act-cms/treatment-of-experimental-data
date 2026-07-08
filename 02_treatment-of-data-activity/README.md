@@ -4,14 +4,14 @@ Lesson 02: Treatment of Experimental Data Activity
 The purpose of this lesson is to introduce a workflow to import experimental data and use Python to analyze the data and create representative figures.
 
 ## Lesson Information
+
 ### Lesson Learning Outcomes
-At the end of this lesson, students will be able to...
-    1.<code>axis=0</code> computes down the column
-    2.Differentiate between best fit, graphical, and Monte Carlo methods for error estimation
-    3.Visualize multiple types of plots in <code>matplotlib</code> with legends
-    4.Implement <code>scipy.stats.linregress()</code> for linear regression
-    5.Discuss Monte Carlo sampling in context of experimental error
-    6.Calculate propagation of errors efficiently
+1. <code>axis=0</code> computes down the column
+2. Differentiate between best fit, graphical, and Monte Carlo methods for error estimation
+3. Visualize multiple types of plots in <code>matplotlib</code> with legends
+4. Implement <code>scipy.stats.linregress()</code> for linear regression
+5. Discuss Monte Carlo sampling in context of experimental error
+6. Calculate propagation of errors efficiently
 
 ### Cyberinfrastructure Prerequisites
 
