@@ -36,8 +36,7 @@ following content topics:
 
 ### References
 * [Lab Handout](https://github.com/act-cms/treatment-of-experimental-data/tree/main/02_treatment-of-data-activity/handout.md)
-*
-
+* Garland, Nibler, Shoemaker; Experiments in Physical Chemistry 7th ed.
 
 ## Lesson Versions & Intended Modalities
 
@@ -51,9 +50,4 @@ modality of instruction and associated implementation strategies.
 
 Also provided to support adopting instructors are
 - `instructor-Key.ipynb`: Instructor "key" notebook with completed code cells and full instructor commentary in Markdown cells
-- `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
-
-See the `instructor-notes.ipynb` For more information about implementation strategies from the lesson author.
-
-
 
